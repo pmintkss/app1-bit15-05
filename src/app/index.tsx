@@ -4,7 +4,7 @@ export default function App(){
     return (
         <View style={myStyle.container}>
             {/* แสดงข้อความ */}
-            <Text style={myStyle.tiile}>Adisak</Text>
+            <Text style={myStyle.tiile}>Adisak Suaykit</Text>
             {/* แสดงรูป */}
             <Image 
                 source={require('@/assets/images/milk.png')}
